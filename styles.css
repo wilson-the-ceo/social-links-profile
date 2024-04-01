@@ -1,0 +1,15 @@
+body {
+  background-color: #141414;
+}
+
+.container {
+  background-color: #1f1f1f;
+}
+
+button {
+  background-color: #333333;
+}
+
+button:active {
+  background-color: #c4f82a;
+}
